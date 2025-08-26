@@ -34,6 +34,17 @@ An advanced AI-powered dashboard built with React and Vite to explore, analyze, 
 - **Visualization**: Custom knowledge graph components
 - **Data**: Comprehensive NASA bioscience research database
 
+## 🛠️ Screenshots
+
+-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/041d1a9f-13e2-4d3f-9096-fed9dbd4807a" />
+
+-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b0a6163a-584a-4da7-95d5-274c4ada0ddc" />
+
+-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/307137ce-7969-4b08-ab5b-54a658de704f" />
+
+
+
+
 ## 🚀 Quick Start
 
 1. **Install dependencies**:
